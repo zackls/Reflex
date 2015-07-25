@@ -1,0 +1,40 @@
+﻿Reflex.swf Movie Report
+-------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1           4087           4087    Scene 1
+      2        3105668        3109755     (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                 91210
+
+Symbol          Shape Bytes    Text Bytes    ActionScript Bytes
+------------    -----------    ----------    ------------------
+Arrow                     0             0                     0
+arrow.ai                199             0                     0
+MainMC                    0             0                     0
+mainMenu.ai            3950            57                     0
+rotationIcon            390             0                     0
+titleArt                  0             0                     0
+
+Font Name    Bytes         Characters
+---------    ----------    ----------
+Playbill            630    EFLRX
+
+ActionScript Bytes    Location
+------------------    --------
+              3946    Scene 1:Frame 1
+             87264    Scene 1:Frame 2
+
+Event Sounds: 11KHz Mono 16 kbps MP3
+
+
+Sound name    Bytes         Format
+----------    ----------    ------
+Reflex.mp3       3012980    11KHz Mono 16 kbps MP3
+
+
+
+

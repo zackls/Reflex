@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<application xmlns="http://ns.adobe.com/air/application/3.4">
+  <id>com.zdizzler.Reflex</id>
+  <versionNumber>1.0.3</versionNumber>
+  <filename>Reflex</filename>
+  <description/>
+  <!-- To localize the description, use the following format for the description element.<description><text xml:lang="en">English App description goes here</text><text xml:lang="fr">French App description goes here</text><text xml:lang="ja">Japanese App description goes here</text></description>-->
+  <name>Reflex</name>
+  <!-- To localize the name, use the following format for the name element.<name><text xml:lang="en">English App name goes here</text><text xml:lang="fr">French App name goes here</text><text xml:lang="ja">Japanese App name goes here</text></name>-->
+  <copyright/>
+  <initialWindow>
+    <content>Reflex.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <fullScreen>true</fullScreen>
+    <aspectRatio>portrait</aspectRatio>
+    <renderMode>gpu</renderMode>
+    <autoOrients>false</autoOrients></initialWindow>
+  <icon>
+    <image512x512>icon512.png</image512x512>
+    <image114x114>icon114.png</image114x114>
+    <image57x57>icon57.png</image57x57>
+    <image72x72>icon72.png</image72x72>
+    <image48x48>icon48.png</image48x48>
+    <image50x50>icon50.png</image50x50>
+    <image58x58>icon58.png</image58x58>
+    <image100x100>icon100.png</image100x100>
+    <image144x144>icon144.png</image144x144>
+  </icon>
+  <customUpdateUI>false</customUpdateUI>
+  <allowBrowserInvocation>false</allowBrowserInvocation>
+  <iPhone>
+    <InfoAdditions>
+      <![CDATA[<key>UIDeviceFamily</key><array><string>1</string></array>]]>
+    </InfoAdditions>
+    <requestedDisplayResolution>standard</requestedDisplayResolution>
+  </iPhone>
+  <supportedLanguages>en</supportedLanguages>
+</application>

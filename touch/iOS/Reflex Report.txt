@@ -1,0 +1,45 @@
+﻿Reflex.swf Movie Report
+------------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+      1253    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS6 - build 481</xmp:CreatorTool> <xmp:CreateDate>2013-01-26T22:51:43-05:00</xmp:CreateDate> <xmp:MetadataDate>2013-09-14T18:09:07-04:00</xmp:MetadataDate> <xmp:ModifyDate>2013-09-14T18:09:07-04:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:6447DE57881DE311972DB858B70625B6</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:6447DE57881DE311972DB858B70625B6</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:53CEF3333568E2118CADDDD6734073D2</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:5C47DE57881DE311972DB858B70625B6</stRef:instanceID> <stRef:documentID>xmp.did:53CEF3333568E2118CADDDD6734073D2</stRef:documentID> <stRef:originalDocumentID>xmp.did:53CEF3333568E2118CADDDD6734073D2</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1        3112608        3112608    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                 94927
+
+Symbol                Shape Bytes    Text Bytes    ActionScript Bytes
+------------------    -----------    ----------    ------------------
+animationRectangle             34             0                     0
+Arrow                           0             0                     0
+arrow.ai                      199             0                     0
+mainMenu.ai                  3946            57                     0
+racerAss                       69             0                     0
+rotationIcon                  389             0                     0
+titleArt                        0             0                     0
+
+Font Name    Bytes         Characters
+---------    ----------    ----------
+Playbill            622    EFLRX
+
+ActionScript Bytes    Location
+------------------    --------
+             94927    Scene 1:Frame 1
+
+Event Sounds: 11KHz Mono 16 kbps MP3
+
+
+Sound name    Bytes         Format
+----------    ----------    ------
+Reflex.mp3       3010763    11KHz Mono 16 kbps MP3
+
+
+
+
